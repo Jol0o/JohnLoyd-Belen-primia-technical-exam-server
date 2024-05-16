@@ -8,11 +8,11 @@ Before you start, make sure you have Node.js, npm, and MySQL installed on your m
 
 1. Clone this repository:
     ```
-    git clone https://github.com/yourusername/hr-hiring-management-server.git
+    git clone https://github.com/yourusername/JohnLoyd-Belen-primia-technical-exam-server.git
     ```
 2. Navigate into the project directory:
     ```
-    cd hr-hiring-management-server
+    cd JohnLoyd-Belen-primia-technical-exam-server
     ```
 3. Install the dependencies:
     ```
